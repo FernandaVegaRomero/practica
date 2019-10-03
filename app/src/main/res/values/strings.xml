@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo1">TESOEM</string>
+    <string name="titulo2">Vega Romero Maria Fernanda</string>
+    <string name="titulo3">Prof. Victor Hugo de la O Martinez</string>
+    <string name="titulo4">Ing. en Tecnologias de la Informacion y Comunicacion</string>
+    <string name="titulo5">Grupo 7T11</string>
+    <string name="titulo6">Matricula: 167010039</string>
+</resources>
